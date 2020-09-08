@@ -13,7 +13,7 @@ Visual Studio Code, GitHub, HeidiSQL, STS 3
 Spring Boot
 
 ### 개발 목적
-Ajax를 위주로 사용한 간단한 CRUD 웹 어플리케이션
+Spring Boot와 Websocket을 사용하여 채팅프로그램구현
 
 Portfolio-Websocket Chat
 
